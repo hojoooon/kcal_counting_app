@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>927785103257-hgc0pa2r52agtrt7j8pnsqubc4l02o52.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.927785103257-hgc0pa2r52agtrt7j8pnsqubc4l02o52</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBdGOZAmdRRGYNVtR_0viQws4YzznF-yXY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>927785103257</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hcit.healthApp</string>
+	<key>PROJECT_ID</key>
+	<string>healthapp-8612c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>healthapp-8612c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:927785103257:ios:e27d91fc814e9e8fd02d08</string>
+	<key>DATABASE_URL</key>
+	<string>https://healthapp-8612c.firebaseio.com</string>
+</dict>
+</plist>
